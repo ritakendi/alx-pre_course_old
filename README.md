@@ -1,1 +1,1 @@
-My first project at ALX!
+Project root readme
